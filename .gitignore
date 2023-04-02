@@ -1,3 +1,11 @@
 
-*.xml
-*.iml
+*.pyc
+*.out
+*.asv
+*.mat
+.idea/
+venv/
+*.bin
+*.idx3-ubyte
+*.idx1-ubyte
+*.csv
