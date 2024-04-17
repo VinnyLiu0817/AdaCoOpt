@@ -1,6 +1,5 @@
-## AdaCoOpt
+## CoOptFL
 
-This repository includes source code for the paper 'AdaCoOpt: Leverage the Interplay of Batch Size and Aggregation Frequency for Federated Learning'. 
 The code was mainly re-written based on a distinguished and excellent source code from S. Wang, T. Tuor, T. Salonidis, K. K. Leung, C. Makaya, T. He, and K. Chan, "Adaptive federated learning in resource constrained edge computing systems," IEEE Journal on Selected Areas in Communications, vol. 37, no. 6, pp. 1205 – 1221, Jun. 2019. 
 
 ### Prerequisites
@@ -27,10 +26,7 @@ The results are saved in the `results` folder.
 
 Currently, the supported datasets are MNIST and CIFAR-10, and the supported models are SVM and CNN. The code can be extended to support other datasets and models too.  
 
-### Citation
-
-When using this code for scientific publications, please kindly cite the above paper.
 
 ### Contributors
 
-This code was written by Weijie Liu based on a distingushed work of Shiqiang Wang and Tiffany Tuor.
+This code was written based on a distingushed work of Shiqiang Wang and Tiffany Tuor.
