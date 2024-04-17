@@ -1,4 +1,4 @@
-## CoOptFL
+## AdaCoOpt
 
 The code was mainly re-written based on a distinguished and excellent source code from S. Wang, T. Tuor, T. Salonidis, K. K. Leung, C. Makaya, T. He, and K. Chan, "Adaptive federated learning in resource constrained edge computing systems," IEEE Journal on Selected Areas in Communications, vol. 37, no. 6, pp. 1205 – 1221, Jun. 2019. 
 
